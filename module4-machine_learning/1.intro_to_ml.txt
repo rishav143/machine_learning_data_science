@@ -1,0 +1,14 @@
+today I learnt the output and input data, difference between y_train and x_train during training, and y_test and x_test during testing. x here is input data and y is output data.
+We have different types of data in ML like Nominal-categorical without ordering, Ordinal-categorical with ordering without interval, interval,
+binomial, and time.
+
+types of learning
+-Supervised learning : we have two types regression(we have continuous data like 0-5) and classification(discrete data like 0 or 1)
+-unsupervised learning: we have two types clustering(means make cluster for similar data) and association(relationship)
+-semi-supervised learning : first we make model of labeled data then predict the unlabel data with that model
+-reinforcement learning	: it is reward and punishment model (complicated one because it involve agent)
+
+AI and subsets of the AI
+Artificical Intellegence is a broad term, and intelligence generally means good reasoning for eg. humans.
+subsets of AI is  - Machine learning - Robotics - Computer vision - NLP(Natural language processing)
+
