@@ -1,0 +1,7 @@
+Linear function intution:
+if experience is given as input and we have to find the salary of the person based on the hypothesis that 
+y = mx + c
+we know y and x but slope(m) and y-intercept(c) is unknown the model will iteratte and tries to find the optimal values 
+for the m and c.
+
+Forward propogation and cost function in linear regression:

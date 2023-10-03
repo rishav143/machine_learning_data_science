@@ -12,3 +12,7 @@ AI and subsets of the AI
 Artificical Intellegence is a broad term, and intelligence generally means good reasoning for eg. humans.
 subsets of AI is  - Machine learning - Robotics - Computer vision - NLP(Natural language processing)
 
+AI vs ML vs Deep learning
+AI is about success - ML is about accuracy and gain experience with data - deep learning involve solving complex problems.
+
+Linear regression
