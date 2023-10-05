@@ -5,3 +5,8 @@ we know y and x but slope(m) and y-intercept(c) is unknown the model will iterat
 for the m and c.
 
 Forward propogation and cost function in linear regression:
+cost function is measured by takeing the square of diff between actual and predicted data.
+
+Gradient decent:
+It is found by  taking the partial derivation of the cost fucntion with respec to m and c.
+ And it then take it to closest to the actual.
